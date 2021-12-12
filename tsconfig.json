@@ -1,0 +1,13 @@
+{
+    "ts-node": {
+      "transpileOnly": true,
+  
+      "files": true,
+
+      "compilerOptions": {
+      }
+    },
+    "compilerOptions": {
+      "target": "ES2021"
+    }
+  }
